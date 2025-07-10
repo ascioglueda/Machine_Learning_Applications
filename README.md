@@ -102,7 +102,11 @@ Bu projede makine öğrenimi tekniklerinin çıktıları görselleştirilmiştir
 
 **Öncelikle bir sanal ortam oluşturmak isterseniz:**
 ```bash
-python -m venv venv
-source venv/bin/activate       # MacOS/Linux
-venv\Scripts\activate          # Windows
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install matplotlib
+pip install seaborn
+pip install jupyter
+
 
