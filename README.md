@@ -69,7 +69,7 @@ Bu projede makine öğrenimi tekniklerinin çıktıları görselleştirilmiştir
 
 - **HierarchicalClustering.png**  
   Hiyerarşik kümeleme algoritmasının çıktısı olan dendrogram yapısını gösterir.  
-  ![Hierarchical](Gozetimsiz_Ogrenme/HierarchicalClustering.png)
+  ![Hierarchical](Gozetimsiz_Ogrenme/ClusteringAlgorithmsComparison.png)
 
 
 - **/belgeler**: Kılavuzlar ve dokümantasyon.
