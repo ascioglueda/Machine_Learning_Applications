@@ -85,11 +85,24 @@ Bu projede makine öğrenimi tekniklerinin çıktıları görselleştirilmiştir
 
 ## Başlangıç
 
-### Ön Koşullar
-- Python 3.9 veya 3.12
-- Gerekli kütüphaneler: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `jupyter`
-- Bağımlılıkları yüklemek için:
-  ```bash
-  pip install -r requirements.txt
-  ```
+### 📌 Ön Koşullar
+
+- Python 3.9 veya 3.12 sürümlerinden biri yüklü olmalıdır.  
+  [Python indirme sayfası](https://www.python.org/downloads/) üzerinden uygun sürümü yükleyebilirsiniz.
+
+- Gerekli Python kütüphaneleri:
+  - `numpy`
+  - `pandas`
+  - `scikit-learn`
+  - `matplotlib`
+  - `seaborn`
+  - `jupyter`
+
+#### 💻 Kurulum Komutları:
+
+**Öncelikle bir sanal ortam oluşturmak isterseniz:**
+```bash
+python -m venv venv
+source venv/bin/activate       # MacOS/Linux
+venv\Scripts\activate          # Windows
 
