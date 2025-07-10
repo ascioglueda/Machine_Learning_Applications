@@ -3,7 +3,7 @@
 ## Genel Bakış
 Bu depoda, makine öğrenimi algoritmaları, teknikleri ve süreçleri üzerine kapsamlı bir çalışma yer almaktadır. Gözetimli, gözetimsiz ve pekiştirmeli öğrenme yöntemlerinin uygulamaları, karşılaştırmaları ve değerlendirmeleri bulunmaktadır. Proje, makine öğrenimi kavramlarını kod, Jupyter not defterleri ve açıklayıcı görseller aracılığıyla anlamak, uygulamak ve görselleştirmek için bir kaynak olarak tasarlanmıştır.
 
-Proje, sınıflandırma, regresyon, kümeleme, boyut indirgeme (LDA, PCA, t-SNE), model seçimi, hiperparametre ayarı ve çapraz doğrulama gibi geniş bir yelpazeyi kapsar ve pratik örnekler ile vaka çalışmalarını içerir. Sonuçlar ve karşılaştırmalara dair içgörüler sunmak için grafikler, diyagramlar ve çizelgeler (örneğin, `image.png`, `\Gozetimli_Ogrenme\output.png`, `\Boyut_İndirgeme\LDA.png`, `\Boyut_İndirgeme\PCA.png`, `\Boyut_İndirgeme\TSNE.png`, `\Gozetimsiz_Ogrenme\Kmeans.png`, `\Gozetimsiz_Ogrenme\Kmeans1.png`, `\Gozetimsiz_Ogrenme\DBSCAN.png`, `\Gozetimsiz_Ogrenme\HierarchicalClustering.png`) kullanılmıştır.
+Proje, sınıflandırma, regresyon, kümeleme, boyut indirgeme (LDA, PCA, t-SNE), model seçimi, hiperparametre ayarı ve çapraz doğrulama gibi geniş bir yelpazeyi kapsar ve pratik örnekler ile vaka çalışmalarını içerir. Sonuçlar ve karşılaştırmalara dair içgörüler sunmak için grafikler, diyagramlar ve çizelgeler (örneğin, `image.png`, `Gozetimli_Ogrenme/output.png`, `Boyut_İndirgeme/LDA.png`, `Boyut_İndirgeme/PCA.png`, `Boyut_İndirgeme/TSNE.png`, `Gozetimsiz_Ogrenme/Kmeans.png`, `Gozetimsiz_Ogrenme/Kmeans1.png`, `Gozetimsiz_Ogrenme/DBSCAN.png`, `Gozetimsiz_Ogrenme/HierarchicalClustering.png`) kullanılmıştır.
 
 ## Proje Yapısı
 Depo, kolay gezinme ve kullanım için düzenli bir şekilde yapılandırılmıştır:
